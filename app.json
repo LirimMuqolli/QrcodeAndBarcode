@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "sp_lp_app",
+    "slug": "sp_lp_app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "sp_lp_app"
+}
